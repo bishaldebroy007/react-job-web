@@ -5,7 +5,8 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <Hero />
+      {/* using childrien  */}
+      <Hero title='Testing Title' subtitle='This is the subtitle' />
 
 
 
