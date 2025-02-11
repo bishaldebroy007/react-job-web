@@ -1,4 +1,4 @@
-
+import Cards from './Card';
 
 const HomeCards = () => {
     return (
